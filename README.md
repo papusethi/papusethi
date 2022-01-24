@@ -1,6 +1,5 @@
 # Hi there 👋
 ## PAPU SETHI
-## NETWORK ENGINEER
 
 ### Summary
 Network focused engineer constantly looking to improve service and run at the edge of technology.
